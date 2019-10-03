@@ -83,6 +83,7 @@ async insertTwoDeleteFirst(todoText1, todoText2){
 
 }
 }
-let cat = new TodosPage
-cat.insertTwoDeleteFirst("blabla", "miumiu")
+
+
+module.exports = TodosPage
 
