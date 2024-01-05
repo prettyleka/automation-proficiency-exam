@@ -1,7 +1,8 @@
 repo_name: prettyleka/automation-proficiency-exam
 report_id: 7eb8673081acadab98cf2eda8ee2c979
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:30:59+00:00'
+timestamp: '2024-01-05T08:51:41+00:00'
 requested_by: prettyleka
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/prettyleka/automation-proficiency-exam
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/automation-proficiency-exam
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/prettyleka/automation-proficiency-exam/blob/master/package.json
   detection_source: package.json
   last_updated_by: Shira Nusboim
   last_updated_on: 2019-09-29 11:08:34.000000000 Z
@@ -47,7 +51,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16334/default_c64b9481f9c6af91ec9ae0d9b64505998ac31ee7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/automation-proficiency-exam/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Shira Nusboim
   last_updated_on: 2019-09-29 11:08:34.000000000 Z
@@ -68,7 +72,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/prettyleka/automation-proficiency-exam/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Shira Nusboim
   last_updated_on: 2019-09-29 11:08:34.000000000 Z
